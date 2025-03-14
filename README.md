@@ -7,9 +7,8 @@
 
 ### 📌 About Me  
 - 🎓 **Computer Science Major** at Kyung Hee University  
-- 🔭 **Currently working on**: Pet Care Service App (Flutter, Firebase, AI)  
-- 🎬 Developing **Movie OTT Clone Project**  
-- 🌱 **Learning**: Flutter, TensorFlow, OpenCV, Google Maps API  
+- 🔭 **Currently working on**: 섭식장애를 가진 사람들을 위한 웹 개발 진행중
+- 🌱 **Learning**: Flutter, React, C/C++, HTML, CSS, JavaScript
 
 ---
 
