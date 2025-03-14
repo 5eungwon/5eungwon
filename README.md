@@ -16,8 +16,8 @@
 - UMC-7th Web **React** 스터디진행 (2024.09 ~ 현재)
 - ⬆️ 백준 플래티넘 1단계 달성 (2024.10.19) [solved.ac - asdfgh0986](https://solved.ac/profile/asdfgh0986)
 - 🏆 **2024 경희대학교 가을 프로그래밍 경시 대회** 장려상
-- UMC-7th [!Pickify](https://github.com/Team-Pickify/Pickfy-FE) 프로젝트 개발
-- 섭식장애를 가진 사람들을 위한 웹 개발 진행중
+- UMC-7th [Pickify](https://github.com/Team-Pickify/Pickfy-FE) 프로젝트 개발
+- 섭식장애를 가진 사람들을 위한 웹 개발 진행중 ([SickSick](https://github.com/Team-Pickify/Pickfy-FE))
 
 ---
 
