@@ -37,20 +37,15 @@
 ---
 
 ### 📬 Contact  
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kimseungwon)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=react&logoColor=61DAFB)](https://your-portfolio-link)  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimseung0630@khu.ac.kr)  
 
 ---
 
 ### 🚀 Featured Projects  
-#### **🐶 Pet Care Service App**  
-A Flutter-based app that provides various features for pet owners including health tracking, emotion analysis, and missing pet alerts.  
+#### ** Pickify project
 
-#### **🎬 Movie OTT Clone Project**  
-A full-stack OTT platform clone that allows users to watch movies, explore trending content, and manage their watchlists.  
+#### ** SickSick project
 
 ---
 
-💡 **꾸미고 싶은 부분이 있거나, 추가하고 싶은 요소가 있으면 말해줘!**  
 
