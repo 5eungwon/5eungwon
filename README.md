@@ -16,9 +16,10 @@
 - 🛠️ **Flutter**로 **KHUTON** 프로젝트 리빌딩 시도 (2024.06~)
 - 📖 UMC-7th Web **React** 스터디진행 (2024.09 ~ 현재)
 - ⬆️ 백준 플래티넘 1단계 달성 (2024.10.19) [solved.ac - asdfgh0986](https://solved.ac/profile/asdfgh0986)
-- 🏆 **2024 경희대학교 가을 프로그래밍 경시 대회** 장려상
-- 🛠️ UMC-7th [Pickify](https://github.com/Team-Pickify/Pickfy-FE) 프로젝트 개발
-- 🛠️ 섭식장애를 가진 사람들을 위한 웹 개발 진행중 ([SickSick](https://github.com/SickSickproject/SickSick-FE))
+- 🏆 **2024 경희대학교 가을 프로그래밍 경시 대회** 장려상 (2024.10.26)
+- 🛠️ UMC-7th [Pickify](https://github.com/Team-Pickify/Pickfy-FE) 프로젝트 개발 (2024.12.27 ~ 2025.02.21)
+- 🚩2024 경인지역 연합 프로그래밍 대회 Shake! 본선 참가 (2024.01.11)
+- 🛠️ 섭식장애를 가진 사람들을 위한 웹 개발 진행중 ([SickSick](https://github.com/SickSickproject/SickSick-FE)) (2025.01.18 ~ )
 
 ---
 
