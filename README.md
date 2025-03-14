@@ -6,9 +6,15 @@
 ---
 
 ### 📌 About Me  
-- 🎓 **Computer Science Major** at Kyung Hee University  
-- 🔭 **Currently working on**: 섭식장애를 가진 사람들을 위한 웹 개발 진행중
-- 🌱 **Learning**: Flutter, React, C/C++, HTML, CSS, JavaScript
+- **경희대학교 컴퓨터공학과 재학**  (2021.03 ~ 현재)
+- 경희대학교 해커톤 **KHUTON** 참가 / Web Front 개발 담당 with **React** (2024.05.10 ~ 2024.05.11)
+- **Flutter**로 **KHUTON** 프로젝트 리빌딩 시도 (2024.06~)
+- UMC-7th Web **React** 스터디진행 (2024.09 ~ 현재)
+- 백준 플래티넘 1단계 달성 (2024.10.19) [solved.ac - asdfgh0986](https://solved.ac/profile/asdfgh0986)
+- **2024 경희대학교 가을 프로그래밍 경시 대회** 장려상
+- UMC-7th Pickify 프로젝트 개발
+- 섭식장애를 가진 사람들을 위한 웹 개발 진행중
+- 
 
 ---
 
