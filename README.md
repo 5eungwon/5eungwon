@@ -60,7 +60,8 @@
 ---
 
 ### 🚀 Featured Projects  
-#### ** Pickify project
+#### ** 매거진 속 트렌디한 공간을 내 주변에서, Pickify
+https://www.notion.so/Pickify-1a1f15586554805585f3c1aba481a0c4
 
 #### ** SickSick project
 
