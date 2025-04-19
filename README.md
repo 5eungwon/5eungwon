@@ -56,7 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=5eungwon&show_icons=true&theme=radical" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=5eungwon&theme=radical" width="400">
 </p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=본인백준아이디)](https://solved.ac/본인백준아이디)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdfgh0986)](https://solved.ac/asdfgh0986)
 
 ---
 
